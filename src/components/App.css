@@ -1,1 +1,20 @@
 /* Styles go here */
+.app__image{
+    margin-top: 30px;
+    width: 500px;
+    margin-bottom: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    
+}
+
+.app__header{
+    width: 100%;
+    text-align: center;
+}
